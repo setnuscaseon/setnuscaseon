@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @setnuscaseon
-- 👀 I’m interested in UX/UI, concept art, character illustration and narrative design.
-- 🌱 I’m currently learning game design.
+- 👋 Hi, I’m @setnuscaseon, or JJ
+- 👀 I’m a UI/UX designer, 2D artist and narrative designer.
+- 🌱 I majored in Game Design.
 - 💞️ I’m looking to collaborate on game development endeavors.
-- 📫 How to reach me: setnuscaseon@yahoo.com
+- 📫 How to reach me: juliazumaeta3@yahoo.com.br
 
 <!---
 setnuscaseon/setnuscaseon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
