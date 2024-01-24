@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @setnuscaseon, or JJ
-- 👀 I’m a UI/UX designer, 2D artist and narrative designer.
+- 👀 I’m a UI/UX designer and 2D artist generalist.
 - 🌱 I majored in Game Design.
 - 💞️ I’m looking to collaborate on game development endeavors.
 - 📫 How to reach me: juliazumaeta3@yahoo.com.br
